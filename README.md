@@ -1,5 +1,5 @@
 # Dave-Full-game-3-levels-
-This was a casual project which I did. I made a new game similar to an old game called "Dave". I did not use any library functions except the basic ones. I created 3 levels of the game. This project is completely done in C++ incorporating all concepts such as pointers(Used everywhere), files(used to score high scores), constructors, destructors (Used to initialize 3 lives, score to zero), classes(The code is done using an object oriented, class/struct based design) and many other small concepts.
+This was a casual project which I did. I made a new game similar to an old game called "Dave". I did not use any library functions except the basic Input/Output ones. I created 3 levels of the game. This project is completely done in C++ incorporating all concepts such as pointers(Used everywhere), files(used to score high scores), constructors, destructors (Used to initialize 3 lives, score to zero), classes(The code is done using an object oriented, class/struct based design) and many other small concepts.
 I have made my own library file called "Objects.h". This is used to initilize different objects in different places. There are many objects like circular objects, square objects, fire, water, Key to enter the next level, door to enter the next level etc.
 The logic which I used mainly comprises of two functions:
 
