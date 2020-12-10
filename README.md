@@ -10,5 +10,3 @@ a) DAVE: This function is a graphics model of the character called "Dave" in col
 b)NODAVE:This function is a graphics model of dave which is black in color. I remove all the colors so that "WHEN DAVE MOVES NEXT STEP(+5-x-coordinate, +5-y-coordinate) the OLD COLOR DAVE IS REPLACED BY A BLACK AND WHITE DAVE. Hence we will not have infitite daves as he keeps moving to the next step. 
 There are several functions for smaller details.
 
-
-I HAVE JUST MADE THIS GAME FOR 3 LEVELS. I WILL DO MORE IF YOU GUYS REQUEST FOR IT. 
